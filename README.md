@@ -10,4 +10,5 @@ change directory -> cd simple_temp_raspi4
 execute  -> bash temp.sh
 
 Image
-...
+
+![alt text](https://github.com/JSteven-arch/simple_temp_raspi4/blob/main/Screenshot_2020-12-11_18-48-48.png)
